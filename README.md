@@ -1,4 +1,13 @@
-### Hi there 👋
+```
+love JavaScript in my life😼
+```
+```
+Follow me on social media
+```
+```
+meow😸😼
+```
+
 
 <!--
 **chyo31/chyo31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
