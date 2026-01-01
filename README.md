@@ -1,10 +1,5 @@
 ```
-love JavaScript in my life😼
-```
-```
 Follow me on social media
-```
-```
 meow😸😼
 ```
 
